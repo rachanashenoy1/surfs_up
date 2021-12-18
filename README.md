@@ -4,7 +4,9 @@ This analysis was created to understand the temperature trends in Oahu. The data
 # Results:
 - We analyses between 1500-1700 temperature records in June and December and there was no significant difference between the average temperature the the two months.
 - The difference in max temperature was 2 degrees of June (85F) and December (83F) and 8 degress in minimum temperature (June: 64F, Dec: 56F)
+
 ![June Temp](https://github.com/rachanashenoy1/surfs_up/blob/main/June%20Temp.png)
+
 ![Dec Temp](https://github.com/rachanashenoy1/surfs_up/blob/main/Dec%20Temp.png)
 
 # Summary:
